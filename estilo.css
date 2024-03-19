@@ -23,3 +23,6 @@ body {
     justify-content: center;
     align-items: center;
 }
+.conteudo-principal span{
+    color: var(--verde);
+}
