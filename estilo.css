@@ -42,3 +42,7 @@ body {
     border-top: none;
     
 }
+
+.botoes{
+    display: block;
+}
